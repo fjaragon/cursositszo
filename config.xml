@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "mx.edu.itszo.cursos"
+        id        = "mx.itszo.cursos"
         versionCode = "20170"
         version   = "3.2.1">
     <name>ITSZO Cursos Moodle</name>
@@ -11,7 +11,7 @@
         Aplicación Moodle oficial para cursos.itszo.edu.mx
     </description>
 
-    <author href="http://itszo.edu.mx" email="apps@itszo.edu.mx">
+    <author href="http://itszo.mx" email="apps@itszo.edu.mx">
         ITSZO
     </author>
 
