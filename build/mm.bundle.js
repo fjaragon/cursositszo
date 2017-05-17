@@ -51899,6 +51899,6 @@ angular.module('mm.core')
     "siteurl": "http://cursos.itszo.mx",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
+    "privacypolicy": "http://itszo.mx/politica-de-privacidad/"
 }
 );
