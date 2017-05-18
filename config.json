@@ -1,7 +1,7 @@
 {
     "app_id" : "mx.itszo.cursos",
     "appname": "ITSZO Cursos Moodle",
-    "versioncode" : "2017",
+    "versioncode" : "20179",
     "versionname" : "3.2.1",
     "cache_expiration_time" : 300000,
     "default_lang" : "es-mx",
