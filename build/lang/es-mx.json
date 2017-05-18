@@ -876,7 +876,7 @@
     "mma.messages.warningmessagenotsent": "No se pudo enviar mensaje(s) al usuario {{user}}. {{error}}",
     "mma.mod_assign.pluginname": "Tarea",
 	"mma.competency.competencies": "Competencias",
-	"mma.mod_assign.notattempt": "No enviado",
+	"mma.mod_assign.noattempt": "No enviado",
 	"mma.mod_assign.notgraded": "No calificado",
     "mma.mod_assign.timeremaining": "Tiempo restante",
 	"mma.mod_assign.duedate": "Fecha límite",
